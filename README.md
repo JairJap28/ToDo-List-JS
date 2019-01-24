@@ -14,3 +14,6 @@ Plus the data will stored with LocalStorage so if you close your browser the tas
 
 #### When you have completed any task
 ![completed](https://user-images.githubusercontent.com/40800776/50021108-064a8080-ffa6-11e8-9ee7-872081992dd7.PNG)
+
+
+Developed by Jair Jimenez
